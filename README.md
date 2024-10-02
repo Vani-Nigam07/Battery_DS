@@ -5,7 +5,7 @@ Data was taken from `https://data.matr.io/1/` , a portal for data used in [Sever
 ## Motivation
 
 - Data generation with data-driven modelling to predict the behaviour of complex systems far into the future.
-
+- advantage of focusing on voltage-capacity data is that this data “comes for free ” in a typical battery cycling experiment.
 
 Check this amazing video by Climate Change for AI! 
 ```
