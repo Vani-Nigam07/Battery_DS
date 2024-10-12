@@ -48,8 +48,17 @@ https://www.youtube.com/live/rx5Y3NJ1jtQ?feature=shared
 
 
 ### Visualisation
-notebooks/eda.ipynb
-[ElasticNetCV.ipynb ](ElasticNetCV.ipynb)
+ The exploratory data analysis (EDA) and insights derived from battery performance data [ElasticNetCV.ipynb ](ElasticNetCV.ipynb)
+
+
+
+
+
+
+![Python Version](https://img.shields.io/badge/python-3.9-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 
 
