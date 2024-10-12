@@ -25,3 +25,20 @@ Check this amazing video by Climate Change for AI!
 ```
 https://www.youtube.com/live/rx5Y3NJ1jtQ?feature=shared
 ```
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/battery-performance-EDA.git
+   cd battery-performance-EDA
+2. install dependencies
+   ``` bash
+   pip install -r requirements.txt
+or using 
+```bash
+conda env create -f environment.yml
+conda activate battery-eda
+
+
+   
+
