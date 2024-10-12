@@ -1,4 +1,20 @@
-# Battery_DS
+# Battery Performance EDA
+
+## Overview
+This repository contains the exploratory data analysis (EDA) and insights derived from battery performance data, focusing on lithium-ion battery life prediction. The goal is to analyze the dataset, visualize trends, and build a foundation for predictive modeling.
+
+## Table of Contents
+- [Project Structure](#project-structure)
+- [Data](#data)
+- [EDA](#eda)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Project Structure
+
 Data was taken from `https://data.matr.io/1/` , a portal for data used in [Severson et al] (https://doi.org/10.1038/s41560-019-0356-8).
 
 
