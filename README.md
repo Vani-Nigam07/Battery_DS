@@ -48,7 +48,8 @@ https://www.youtube.com/live/rx5Y3NJ1jtQ?feature=shared
 
 
 ### Visualisation
-jupyter notebook  notebooks/eda.ipynb
+notebooks/eda.ipynb
+[jupyter notebook  ](ElasticNetCV.ipynb)
 
 
 
