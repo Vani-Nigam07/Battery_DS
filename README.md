@@ -30,14 +30,29 @@ https://www.youtube.com/live/rx5Y3NJ1jtQ?feature=shared
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/battery-performance-EDA.git
+   ```
+   ```
    cd battery-performance-EDA
+   ```
 2. install dependencies
    ``` bash
    pip install -r requirements.txt
-or using 
-```bash
-conda env create -f environment.yml
-conda activate battery-eda
+   ```
+  or using 
+   ```
+   conda env create -f environment.yml
+   ```
+   ```
+   conda activate battery-eda
+   ```
+
+
+### Visualisation
+jupyter notebook  notebooks/eda.ipynb
+
+
+
+
 
 
    
