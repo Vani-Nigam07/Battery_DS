@@ -6,12 +6,8 @@ This repository contains the exploratory data analysis (EDA) and insights derive
 ## Table of Contents
 - [Project Structure](#project-structure)
 - [Data](#data)
-- [EDA](#eda)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+- [Motivation](#Motivation)
+
 
 ## Project Structure
 
