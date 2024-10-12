@@ -49,7 +49,7 @@ https://www.youtube.com/live/rx5Y3NJ1jtQ?feature=shared
 
 ### Visualisation
 notebooks/eda.ipynb
-[jupyter notebook  ](ElasticNetCV.ipynb)
+[ElasticNetCV.ipynb ](ElasticNetCV.ipynb)
 
 
 
