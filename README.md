@@ -48,7 +48,7 @@ https://www.youtube.com/live/rx5Y3NJ1jtQ?feature=shared
 
 
 ### Visualisation
- The exploratory data analysis (EDA) and insights derived from battery performance data [ElasticNetCV.ipynb ](ElasticNetCV.ipynb)
+ The exploratory data analysis (EDA) and insights derived from battery performance data are present in [ElasticNetCV.ipynb ](ElasticNetCV.ipynb)
 
 
 
