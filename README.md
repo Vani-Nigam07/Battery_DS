@@ -14,7 +14,8 @@ This repository contains the exploratory data analysis (EDA) and insights derive
 
 ## Data
 Data was taken from `https://data.matr.io/1/` , a portal for data used in [Severson et al] (https://doi.org/10.1038/s41560-019-0356-8).
-![image](https://github.com/user-attachments/assets/77ba0a96-fd0f-45c2-b3e8-ac5d5f29f1b3)
+['dq_min','dq_mean','dq_variance','dq_skewness','dq_kurtosis','slope_100_2','intercept_100_2','discharge_capacity_2','discharge_capacity_100','diff_QD_n_2','slope_100_91',
+'intercept_100_91','ave_chg_time_5_1','max_temp_100_2','min_temp_100_2','Integral_temp_100_2','integral_resistance_2','minimum_IR','difference_IR_100_2',cycle_life']
 
 
 
