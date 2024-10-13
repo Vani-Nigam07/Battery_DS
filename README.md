@@ -14,6 +14,8 @@ This repository contains the exploratory data analysis (EDA) and insights derive
 
 ## Data
 Data was taken from `https://data.matr.io/1/` , a portal for data used in [Severson et al] (https://doi.org/10.1038/s41560-019-0356-8).
+![image](https://github.com/user-attachments/assets/77ba0a96-fd0f-45c2-b3e8-ac5d5f29f1b3)
+
 
 
 ## Motivation
